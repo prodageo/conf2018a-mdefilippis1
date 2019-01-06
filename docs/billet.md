@@ -32,4 +32,4 @@ Cette méthode possède un coût très élevé pour l'entreprise intégrant les 
 
 ## Architecture et facteur qualité
 
- La conférence portant sur l'intégration de nouveaux membres dans une équipe de développement, il serait intéressant d'étudier par la norme ISO 30405:2016 (Management des ressources humaines — Lignes directrices relatives au recrutement) afin de déterminer un facteur qualité.
+ La conférence portant sur l'intégration de nouveaux membres dans une équipe de développement, il serait intéressant d'étudier par la norme ISO 30405:2016 (Management des ressources humaines — Lignes directrices relatives au recrutement) afin de déterminer un facteur qualité. Les parties de la norme portant sur la pré-intégration et l'intégration peuvent être influencées par le sujet de la conférence.
