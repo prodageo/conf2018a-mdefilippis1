@@ -22,7 +22,13 @@
  
 
 ## Résumé
-...
+
+Dans un contexte de développement agile, l'aspect humain ne doit pas être négligé. Il est à la charge de l'entreprise de faire en sorte d'emmener ses développeurs au meilleur niveau possible, en particuler pendant l'intégration de nouvelles recrues. Après avoir fait le constat que ces méthodes d'intégration (ou *emboarding*) mises en oeuvre dans la plupart des sociétés sont inefficaces, la conférence propose une méthode en plusieurs étapes permettant d'intégrer de manière optimale les nouveaux développeurs à une équipe.
+
+La première étape consiste à décrire ce que serait un membre de l'équipe "idéal". Le développeur nouvellement intégré aura alors pour objectif de devenir le plus semblable possible à cette idéal. La méthode propose ensuite la réalisation de 5 challenges sous forme de projet, à réaliser chaque fois en une semaine. Chacun de ces challenges se décompose en une phase de plannification, de réalisation, de démonstration, de rétrospective, et d'évaluation de la part des autres développeurs de la société. L'intégré est suivi tout au long de ces challenges par un tuteur à la fois bienveillant et intransigeant.
+
+Cette méthode possède un coût très élevé pour l'entreprise intégrant les nouveaux développeurs, et a un retour sur investissement dur à définir.
+
 
 ## Architecture et facteur qualité
 ...
