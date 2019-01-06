@@ -14,7 +14,7 @@
  - Auteur du billet : Michael
  - Mots-clés : agile, intégration, développeur
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+   
 
 ## Support
  
