@@ -8,7 +8,7 @@
  - Horaire de la conférence : 15h40 - 16h50
  - Durée de la conférence : 1h10
  - Conférencier(s) :
-   - Florian Ferbrach [Twitter](https://twitter.com/fferbach)
+   - Florian Ferbrach ([Twitter](https://twitter.com/fferbach))
    
  - Audience : ...
  - Auteur du billet : ...
