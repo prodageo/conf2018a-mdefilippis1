@@ -10,16 +10,16 @@
  - Conférencier(s) :
    - Florian Ferbrach ([Twitter](https://twitter.com/fferbach))
    
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
+ - Audience : 120 personnes
+ - Auteur du billet : Michael
+ - Mots-clés : agile, intégration, développeur
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
- - Plan du support :
+ 
+ - Nombre de diapos du support : 32
+ 
 
 ## Résumé
 ...
